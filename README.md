@@ -2,7 +2,7 @@
 
 Files: 
 - linux_static/fpr - Linux static executible
-- win32_static/fpr.exe 
+- win32_static/fpr.exe - Win32 static executible 
 
 Usage example:
 
